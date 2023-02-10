@@ -1,8 +1,8 @@
 /**
  *   @file: word-count.cc
- * @author: Enter your name
- *   @date: Enter the date
- *  @brief: Add Description
+ * @author: Allison McKee
+ *   @date: 02-09-2023
+ *  @brief: Word/Sentence Counter
  */
 
 #include <iostream>
